@@ -1,6 +1,6 @@
 # Hi, I'm Radjiv Batuli 👋
 
-## Software Development Engineer | U.S. Army Veteran
+## Software Engineer | U.S. Army Veteran
 
 I'm a U.S. Army Veteran transitioning into Software Engineering after serving as a Construction Engineer. I'm currently pursuing a Bachelor of Science in Cybersecurity and Information Assurance at Western Governors University while building software projects with Python, Git, Linux, and cloud technologies.
 

@@ -1,10 +1,10 @@
 # Hi, I'm Radjiv Batuli 👋
 
-## About Me
+## Software Development Engineer | U.S. Army Veteran
 
-I'm a U.S. Army Veteran transitioning into Software Engineering after serving as a Construction Engineer. I'm currently pursuing a Bachelor of Science in Cybersecurity and Information Assurance at Western Governors University while building a portfolio of software projects focused on Python, cloud computing, and automation.
+I'm a U.S. Army Veteran transitioning into Software Engineering after serving as a Construction Engineer. I'm currently pursuing a Bachelor of Science in Cybersecurity and Information Assurance at Western Governors University while building software projects with Python, Git, Linux, and cloud technologies.
 
-My goal is to become a Software Development Engineer and contribute to building reliable, scalable software that solves real-world problems.
+My goal is to become a Software Development Engineer and build reliable, scalable software that solves real-world problems.
 
 ---
 
@@ -15,8 +15,8 @@ My goal is to become a Software Development Engineer and contribute to building 
 - Data Structures & Algorithms
 - Git & GitHub
 - Linux
-- Software Development
 - AWS Cloud
+- Software Development
 
 ---
 
@@ -42,13 +42,12 @@ A Python command-line application that estimates concrete, aggregate, and soil q
 - Python
 - Object-Oriented Programming
 - Input Validation
+- Exception Handling
 - Unit Testing
 - Git
 - GitHub
 
-Repository:
-
-https://github.com/radjivbatuli/construction-material-estimator
+➡️ Repository: https://github.com/radjivbatuli/construction-material-estimator
 
 ---
 
@@ -56,15 +55,15 @@ https://github.com/radjivbatuli/construction-material-estimator
 
 - Build 10+ software engineering projects
 - Earn the AWS Certified Cloud Practitioner certification
-- Strengthen Python and data structures skills
 - Contribute to open-source software
+- Strengthen Python and data structures skills
 - Join Amazon as a Software Development Engineer Apprentice
 
 ---
 
-## Connect With Me
+## Let's Connect
 
-- LinkedIn: www.linkedin.com/in/wistonbatuli
 - GitHub: https://github.com/radjivbatuli
+- LinkedIn: www.linkedin.com/in/wistonbatuli
 
 Thanks for visiting my profile!

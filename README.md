@@ -64,6 +64,6 @@ A Python command-line application that estimates concrete, aggregate, and soil q
 ## Let's Connect
 
 - GitHub: https://github.com/radjivbatuli
-- LinkedIn: www.linkedin.com/in/wistonbatuli
+- LinkedIn: www.linkedin.com/in/radjivbatuli
 
 Thanks for visiting my profile!
